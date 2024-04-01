@@ -1,3 +1,3 @@
 # apanacollege-demo
 this is my first git repositary
-Author -Dnyaneshwar
+Author -Dnyaneshwar (apana college)
